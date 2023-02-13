@@ -29,8 +29,7 @@ h2{
     position: relative;
     font-size: 60px !important;
     color:rgb(102, 20, 91) !important;
-    text-decoration: underline;
-    text-shadow: 1px 1px 9px black;
+    text-decoration: underline;    
     top: 100px !important;
     z-index: 1;    
 }
@@ -103,3 +102,39 @@ legend:hover{
     justify-content: flex-start;
 }
 
+.mb-3{
+    font-size: 2em !important;
+}
+.main-index{
+    background-color: rgb(205, 183, 226);
+    padding-bottom: 40px !important;
+}
+.form1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+}
+.card{
+    border-radius: 22px;
+    box-shadow: 1px 2px 9px black;
+}
+h4{
+    font-weight: bold !important;
+    font-size: 2em !important;
+    background-color: rgb(116, 116, 250);
+}
+footer{
+    background-color: blueviolet;
+    font-size: 2em;
+    font-weight: bold;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.img-footer{
+    width: 10em;
+    
+}
