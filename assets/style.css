@@ -12,7 +12,8 @@ header{
 }
 h1{
     text-align: center;
-    font-size: 50px !important;
+    font-size: 80px !important;
+    color: blueviolet !important;
 }
 .carousel{
     margin: 30px;
@@ -25,9 +26,14 @@ h2{
     text-decoration: underline;
     text-shadow: 1px 1px 9px black;
     top: 100px !important;
-    z-index: 1;
-    
+    z-index: 1;    
 }
+.nav-link{
+    font-size: 25px !important;
+    color: blueviolet !important;
+}
+    
+    
 
 main{
     background-color: rgb(241, 241, 247);   
