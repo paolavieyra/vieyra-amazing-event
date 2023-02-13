@@ -7,12 +7,18 @@
     box-sizing: border-box;
     font-family: 'Caveat', cursive; 
 }
+
 header{
     background-color: lavenderblush;
+    border: 8px groove blueviolet;
+    
+}
+img{
+    width: 15%;
 }
 h1{
     text-align: center;
-    font-size: 80px !important;
+    font-size: 90px !important;
     color: blueviolet !important;
 }
 .carousel{
@@ -22,7 +28,7 @@ h2{
     text-align: center;
     position: relative;
     font-size: 60px !important;
-    color:blueviolet !important;
+    color:rgb(102, 20, 91) !important;
     text-decoration: underline;
     text-shadow: 1px 1px 9px black;
     top: 100px !important;
@@ -31,8 +37,9 @@ h2{
 .nav-link{
     font-size: 25px !important;
     color: blueviolet !important;
+    font-weight: bolder !important;
 }
-    
+
     
 
 main{
