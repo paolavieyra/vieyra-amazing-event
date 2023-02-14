@@ -7,11 +7,9 @@
     box-sizing: border-box;
     font-family: 'Caveat', cursive; 
 }
-
 header{
     background-color: lavenderblush;
-    border: 8px groove blueviolet;
-    
+    border: 8px groove blueviolet;    
 }
 img{
     width: 15%;
@@ -38,9 +36,6 @@ h2{
     color: blueviolet !important;
     font-weight: bolder !important;
 }
-
-    
-
 main{
     background-color: rgb(241, 241, 247);   
 }
@@ -130,11 +125,8 @@ footer{
     font-weight: bold;
     color: aliceblue;
     display: flex;
-    justify-content: space-between;
-
-    
+    justify-content: space-between;    
 }
 .img-footer{
-    width: 10em;
-    
+    width: 10em;    
 }
