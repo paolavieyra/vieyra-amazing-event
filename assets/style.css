@@ -34,7 +34,7 @@ h2{
 }
 .nav-link{
     font-size: 25px !important;
-    color: blueviolet !important;
+    /*color: blueviolet !important;*/
     font-weight: bolder !important;
 }
 main{
@@ -125,9 +125,12 @@ footer{
     font-size: 2em;
     font-weight: bold;
     color: aliceblue;
+    
     display: flex;
     justify-content: space-between;    
 }
 .img-footer{
-    width: 10em;    
+    width: 10em;
+    display: flex; 
+    justify-content:space-between ;   
 }
